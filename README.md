@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-这里可以写一句简短的自我介绍。比如：专注于技术开发与平台建设。
+Expand the reach of your imagination and creativity—with rapid prototyping
 
-#### 🚀 我的项目
+#### 🚀 Custom Machining Project
 * **[EveFab](https://evefab.com)** - A responsive, professional one-stop custom machining platform.
